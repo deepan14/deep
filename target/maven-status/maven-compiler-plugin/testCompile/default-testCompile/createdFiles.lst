@@ -1,0 +1,8 @@
+com\annotationtest\parameter.class
+com\automation\test\dresstest.class
+com\automation\test\producttest.class
+com\annotationtest\dependency.class
+com\annotationtest\ignoretest.class
+com\annotationtest\groups.class
+com\annotationtest\dataprovider.class
+com\annotationtest\annotationn.class
